@@ -59,6 +59,9 @@ public class GetURL : MonoBehaviour {
     int questionsNumber = 10;
     for (int i = 1; i <= questionsNumber; i++)
         {
+
+            if(i==5)
+            { EventManager.TriggerEvent("HalfTime"); }
             string query = "?id=" + i;
             string fullURL = url + query;
 

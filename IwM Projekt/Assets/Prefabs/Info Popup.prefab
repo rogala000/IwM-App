@@ -261,7 +261,8 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: "APLIKACJA TA STANOWI PROJEKT NA ZALICZENIE Z PRZEDMIOTU INFORMATYKA W MECHATRONICE.
-    \nJEST TO TEST Z PYTANIAMI ZAMKNIETYMI OPARTY O REST\n\n\n\n\xA9 jaroslaw rogalski"
+    \nJEST TO TEST Z PYTANIAMI ZAMKNIETYMI OPARTY O REST API\n\n\n\n\xA9 jaroslaw
+    rogalski"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
@@ -329,10 +330,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 114541276979285348}
-    characterCount: 158
+    characterCount: 162
     spriteCount: 0
-    spaceCount: 26
-    wordCount: 22
+    spaceCount: 27
+    wordCount: 23
     linkCount: 0
     lineCount: 12
     pageCount: 1

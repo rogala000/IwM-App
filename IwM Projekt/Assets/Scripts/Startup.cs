@@ -17,6 +17,7 @@ public class Startup : MonoBehaviour {
     void Awake()
     {
         someListener = new UnityAction(LoadMainScene);
+
     }
 
     private AudioSource audioSource;
@@ -24,20 +25,24 @@ public class Startup : MonoBehaviour {
 	void Start () {
         audioSource = GetComponent<AudioSource>();
         EventManager.StartListening("Start", someListener);
-        StartCoroutine(StartGame());
+        EventManager.StartListening("HalfTime", HalfTime);
 	}
 
-    IEnumerator StartGame()
+    void HalfTime()
     {
-        yield return new WaitForSeconds(2);
         text.text = "Jaroslaw Rogalski";
         audioSource.PlayOneShot(pop);
 
     }
 
+
+
+
     void LoadMainScene()
     {
+        audioSource.PlayOneShot(pop);
         SceneManager.LoadScene("Main");
+        
     }
 
 }
