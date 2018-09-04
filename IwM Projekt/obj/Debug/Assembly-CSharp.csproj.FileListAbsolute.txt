@@ -1,0 +1,420 @@
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/Assembly-CSharp.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/Assembly-CSharp.pdb
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/Boo.Lang.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/mscorlib.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/System.Core.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/System.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/System.Runtime.Serialization.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/System.Xml.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/System.Xml.Linq.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/Unity.Locator.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/Unity.TextMeshPro.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEditor.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.AIModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.Analytics.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ARModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.AudioModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ClothModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.CoreModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.GridModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.HoloLens.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.InputModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.Networking.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.Timeline.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.TLSModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UI.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UIModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UNETModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.VideoModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.VRModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.WindModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.XRModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityScript.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityScript.Lang.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/Unity.Cecil.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/Unity.SerializationLogic.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/Unity.DataContract.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/ExCSS.Unity.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/Boo.Lang.Parser.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/Boo.Lang.Compiler.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/Unity.IvyParser.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/Boo.Lang.Useful.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/Unity.CecilTools.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEditor.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.AIModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ARModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.AudioModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ClothModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.CoreModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.GridModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.InputModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.TLSModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UIModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UNETModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.VRModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.VideoModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.WindModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.XRModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.UI.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.Timeline.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.Networking.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.HoloLens.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/obj/Debug/Assembly-CSharp.csproj.CopyComplete
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/obj/Debug/Assembly-CSharp.dll
+D:/Users/Public/Documents/Unity Projects/IwM Projekt/obj/Debug/Assembly-CSharp.pdb
+/Users/rakieta/IwM Projekt/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/rakieta/IwM Projekt/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/rakieta/IwM Projekt/obj/Debug/Assembly-CSharp.dll
+/Users/rakieta/IwM Projekt/obj/Debug/Assembly-CSharp.pdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Boo.Lang.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/mscorlib.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/System.Core.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/System.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/System.Xml.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.Locator.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEditor.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityScript.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.Cecil.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.DataContract.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Mono.Security.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEditor.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEditor.StandardEvents.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.TextMeshPro.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/rakieta/IwM Projekt/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/rakieta/IwM Projekt/obj/Debug/Assembly-CSharp.csproj.CopyComplete
