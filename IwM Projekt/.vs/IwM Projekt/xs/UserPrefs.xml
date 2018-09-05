@@ -1,13 +1,12 @@
 ﻿<Properties StartupConfiguration="{87545C08-FD07-2471-7301-C8F0C7F9171D}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainGameController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Startup.cs">
     <Files>
       <File FileName="Assets/Scripts/InfoPopup.cs" Line="13" Column="1" />
-      <File FileName="Assets/Scripts/DatabaseConnection.cs" Line="18" Column="1" />
-      <File FileName="Assets/Scripts/JSOND.cs" Line="16" Column="2" />
-      <File FileName="Assets/Scripts/GameManager.cs" Line="62" Column="40" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="62" Column="10" />
       <File FileName="Assets/Scripts/GetURL.cs" Line="15" Column="1" />
       <File FileName="Assets/Scripts/MainGameController.cs" Line="37" Column="33" />
+      <File FileName="Assets/Scripts/Startup.cs" Line="48" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

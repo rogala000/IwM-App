@@ -47,7 +47,7 @@ public class GetURL : MonoBehaviour {
     }
 
 
-    void Start () {
+    void OnEnable () {
             questions.Clear();
             StartCoroutine(GetText(url));
 
@@ -72,6 +72,8 @@ public class GetURL : MonoBehaviour {
             if (www.isNetworkError || www.isHttpError)
             {
                 Debug.Log(www.error);
+                EventManager.TriggerEvent("NoInternet");
+                Debug.Log("No internet :(");
             }
             else
             {
@@ -85,7 +87,15 @@ public class GetURL : MonoBehaviour {
                 replacement = replacement.Replace("]", String.Empty);
 
 
+                if(replacement == null)
+                {
+                    EventManager.TriggerEvent("NoInternet");
+                    Debug.Log("No internet :(");
 
+                } else {
+                    EventManager.TriggerEvent("InternetOK");
+
+                }
                 Debug.Log(replacement);
                 Processjson(replacement);
             }

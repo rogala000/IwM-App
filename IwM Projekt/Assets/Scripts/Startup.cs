@@ -10,9 +10,10 @@ public class Startup : MonoBehaviour {
 
     [SerializeField] TextMeshProUGUI text;
     [SerializeField] AudioClip pop;
-
+    [SerializeField] GameObject noInternetPopup;
 
     private UnityAction someListener;
+    bool connectionOK = true;
 
     void Awake()
     {
@@ -26,6 +27,8 @@ public class Startup : MonoBehaviour {
         audioSource = GetComponent<AudioSource>();
         EventManager.StartListening("Start", someListener);
         EventManager.StartListening("HalfTime", HalfTime);
+        EventManager.StartListening("NoInternet", NoInternet);
+        EventManager.StartListening("InternetOK", InternetOK);
 	}
 
     void HalfTime()
@@ -40,9 +43,29 @@ public class Startup : MonoBehaviour {
 
     void LoadMainScene()
     {
-        audioSource.PlayOneShot(pop);
-        SceneManager.LoadScene("Main");
+        if (connectionOK)
+        {
+            audioSource.PlayOneShot(pop);
+            SceneManager.LoadScene("Main");
+        }
         
+    }
+
+
+    public void RestartApp(){
+        GetURL.instance.enabled = false;
+        GetURL.instance.enabled = true;
+        SceneManager.LoadScene("Startup");
+    }
+
+    public void NoInternet(){
+        Debug.Log("No internet handled");
+        connectionOK = false;
+        Instantiate(noInternetPopup);
+    }
+
+    public void InternetOK(){
+        connectionOK = true;
     }
 
 }
